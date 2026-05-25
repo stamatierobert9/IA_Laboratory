@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import json; json.load\\(open\\('/Users/robertstamatie/Developer/Facultate/IA/Laborator/lab9/Bayes.ipynb'\\)\\); print\\('OK: valid JSON'\\)\")",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}
